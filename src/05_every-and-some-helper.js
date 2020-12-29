@@ -1,4 +1,6 @@
-console.log("5. 'every' and 'some' helper");
+console.log('============================');
+console.log("5. 'every' and 'some' Helper");
+console.log('----------------------------');
 
 // 'every' example
 var users = [

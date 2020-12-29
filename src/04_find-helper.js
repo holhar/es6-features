@@ -1,4 +1,6 @@
-console.log("4. 'find' helper");
+console.log('================');
+console.log("4. 'find' Helper");
+console.log('----------------');
 
 // Example 1
 var users = [

@@ -1,4 +1,6 @@
+console.log('==============================');
 console.log("11. Default function arguments");
+console.log('------------------------------');
 
 // Example 1: Define default values for arguments in function signature
 function sum(a = 0, b = 0) {

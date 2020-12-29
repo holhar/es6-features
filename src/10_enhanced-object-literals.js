@@ -1,4 +1,7 @@
-// 10. Enhanced object literals
+console.log('============================');
+console.log("10. Enhanced object literals");
+console.log('----------------------------');
+
 // Example 1: When property and value have the same name, the value can be omitted
 const red = '#ff0000';
 const blue = '#0000ff';

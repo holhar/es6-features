@@ -1,4 +1,6 @@
+console.log('===================');
 console.log("8. Template strings");
+console.log('-------------------');
 
 // Strings marked by back ticks (`) can use/applay placeholders
 

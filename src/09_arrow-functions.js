@@ -1,4 +1,7 @@
-// 9. Arrow functions
+console.log('==================');
+console.log("9. Arrow functions");
+console.log('------------------');
+
 /*
     Example 1: function keyword can be omitted, in case of only one
     param the parentheses can be omitted as well

@@ -1,4 +1,6 @@
-console.log("2. 'map' helper");
+console.log('===============');
+console.log("2. 'map' Helper");
+console.log('---------------');
 
 // Plucking values
 var images = [

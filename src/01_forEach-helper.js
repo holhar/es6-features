@@ -1,4 +1,6 @@
-console.log("1. 'forEach' helper");
+console.log('===================');
+console.log("1. 'forEach' Helper");
+console.log('-------------------');
 
 var images = [
   { height: 10, width: 30 },

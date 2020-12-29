@@ -1,4 +1,7 @@
-// 7. Const/Let
+console.log('============');
+console.log("7. Const/Let");
+console.log('------------');
+
 // Use 'const' for invariants and 'let' for variables
 
 // Example 1

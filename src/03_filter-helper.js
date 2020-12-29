@@ -1,4 +1,6 @@
-console.log("3. 'filter' helper");
+console.log('==================');
+console.log("3. 'filter' Helper");
+console.log('------------------');
 
 // Filtering values
 var numbers = [15, 25, 35, 45, 55, 65, 75, 85, 95];

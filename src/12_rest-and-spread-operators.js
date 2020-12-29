@@ -1,4 +1,7 @@
-// 12. Rest and spread operators
+console.log('=============================');
+console.log('12. Rest and spread operators');
+console.log('-----------------------------');
+
 // Example 1: Rest operator - see VarArgs concept in Java
 function product(...numbers) {
   return numbers.reduce(function(acc, number) {

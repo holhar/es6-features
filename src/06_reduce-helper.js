@@ -1,4 +1,6 @@
-console.log("6. 'reduce' helper");
+console.log('==================');
+console.log("6. 'reduce' Helper");
+console.log('------------------');
 
 // Example 1: summing up values
 var trips = [{ distance: 34 }, { distance: 12 } , { distance: 1 }];
